@@ -46,5 +46,5 @@ City Explorer is a full-stack web application that allows users to explore citie
 
 ---
 
-## 📂 Folder Structure
+
 
