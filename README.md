@@ -56,7 +56,7 @@ City Explorer is a full-stack web application that allows users to explore citie
 Implemented authentication (username / password) in application
 
 ## Day 5-8:
-Database schema created
+Database schema created 
 
 
 
