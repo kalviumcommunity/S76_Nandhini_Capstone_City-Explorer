@@ -47,4 +47,21 @@ City Explorer is a full-stack web application that allows users to explore citie
 ---
 
 
+## Day 1: Set up GitHub repo and initialize MERN project
+
+
+## Day 2-4:
+
+
+Implemented authentication (username / password) in application
+
+## Day 5-8:
+Database schema created 
+
+
+
+
+
+
+
 
